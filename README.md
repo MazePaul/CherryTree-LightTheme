@@ -10,6 +10,7 @@
     * [Color palette](#color-palette)
     * [Tree visualization](#tree-visualization)
   * [Installation](#installation)
+  * [Usefull Link](#usefull-link)
 <!-- TOC -->
 
 ## Screenshots
@@ -30,6 +31,6 @@
 3. Select violet_light.cfg & Restart CherryTree
 
 
-## Link
+## Usefull Link
 
 -> [CherryTree Repository](https://github.com/giuspen/cherrytree)
