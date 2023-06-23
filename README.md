@@ -15,13 +15,13 @@
 ## Screenshots
 
 ### Theme example
-![](/home/maze/Documents/Programmation/CherryTree-LightTheme/assets/themeExample.png)
+![](assets/themeExample.png)
 
 ### Color palette
-![](/home/maze/Documents/Programmation/CherryTree-LightTheme/assets/colorPalette.png)
+![](assets/colorPalette.png)
 
 ### Tree visualization
-![](/home/maze/Documents/Programmation/CherryTree-LightTheme/assets/treeVisualization.png)
+![](assets/treeVisualization.png)
 
 ## Installation
 
