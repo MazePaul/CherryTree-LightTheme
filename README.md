@@ -31,6 +31,6 @@
 3. Select violet_light.cfg & Restart CherryTree
 
 
-## Usefull Link
+## Useful Link
 
 -> [CherryTree Repository](https://github.com/giuspen/cherrytree)
