@@ -1,5 +1,4 @@
 # CherryTree-LightTheme
-___
 
 ## Table of Contents
 
@@ -14,7 +13,6 @@ ___
 <!-- TOC -->
 
 ## Screenshots
-___
 
 ### Theme example
 ![](/home/maze/Documents/Programmation/CherryTree-LightTheme/assets/themeExample.png)
@@ -26,7 +24,6 @@ ___
 ![](/home/maze/Documents/Programmation/CherryTree-LightTheme/assets/treeVisualization.png)
 
 ## Installation
-___
 
 1. Open CherryTree
 2. File -> Preferences -> Import Preferences
